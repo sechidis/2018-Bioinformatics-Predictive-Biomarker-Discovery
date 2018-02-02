@@ -39,7 +39,7 @@ Finally, we provide the same functions for deriving the uni-variate INFO ranking
 
 Example
 
-We provide a source code (Functions-GenerateData.R) to generate the synthetic scenarios presented in the paper. The following example shows how to derive the predictive rankings using our code.
+We provide a source code (```Functions-GenerateData.R```) to generate the synthetic scenarios presented in the paper. The following example shows how to derive the predictive rankings using our code.
 
 ```
 ## Load libraries
