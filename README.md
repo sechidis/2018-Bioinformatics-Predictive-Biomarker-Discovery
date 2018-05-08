@@ -1,4 +1,4 @@
-# 2018-Bioinformatics-INFOplus
+# Bioinformatics 2018 - Distinguishing prognostic and predictive biomarkers: An information theoretic approach 
  
 Information theoretic predictive biomarker ranking 
 
