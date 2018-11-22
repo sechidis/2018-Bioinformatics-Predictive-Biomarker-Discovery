@@ -13,7 +13,7 @@ Information theoretic predictive biomarker ranking
 
 **Maintainer:** Konstantinos Sechidis konstantinos.sechidis@manchester.ac.uk
 
-**Description:** Deriving rankings that capture the predictive strength biomarker strength through univariate (INFO) or higher-order (INFO+) methods
+**Description:** Deriving rankings that capture the predictive biomarker strength through univariate (INFO) or higher-order (INFO+) methods
 
 **Functions:**
 
