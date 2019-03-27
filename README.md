@@ -4,7 +4,7 @@ Information theoretic predictive biomarker ranking
 
 **Date:** 02/02/2018
 
-**Paper (under review):** Distinguishing prognostic and predictive biomarkers: An information theoretic approach 
+**Paper:** Distinguishing prognostic and predictive biomarkers: An information theoretic approach 
 **Authors:** Konstantinos Sechidis, Konstantinos Papangelou, Paul D. Metcalfe, David Svensson, James Weatherall and Gavin Brown
 
 **Platform:** R Version 3.3.1
